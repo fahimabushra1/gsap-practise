@@ -1,0 +1,148 @@
+*{
+    margin: 0 12px 4px 12px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+}
+html,
+body{
+    height: 100%;
+    width: 100%;
+} 
+
+#name{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    white-space: nowrap;
+    color: #FFC312;
+    z-index:-1;
+}
+
+#box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.box1{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50%;
+}
+.box2{
+    height: 20px;
+    width: 20px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+.box3{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    border-radius: 50%;
+}
+.box4{
+    height: 30px;
+    width: 30px;
+    background-color: orange;
+    border-radius: 50%;
+}
+.box5{
+    height: 50px;
+    width: 50px;
+    background-color:#F8EFBA;
+    border-radius: 50%;
+}
+.box6{
+    height: 30px;
+    width: 30px;
+    background-color: pink;
+    border-radius: 50%;
+}
+.box7{
+    height: 50px;
+    width: 50px;
+    background-color:#F97F51;
+    border-radius: 50%;
+}
+.box8{
+    height: 30px;
+    width: 30px;
+    background-color: purple;
+    border-radius: 50%;
+}
+.box9{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    border-radius: 50%;
+}
+.box10{
+    height: 30px;
+    width: 30px;
+    background-color: #3B3B98;
+    border-radius: 50%;
+}
+.box11{
+    height: 60px;
+    width: 60px;
+    background-color: #fed330;
+    border-radius: 50%;
+}
+.box12{
+    height: 20px;
+    width: 20px;
+    background-color: #20bf6b;
+    border-radius: 50%;
+}
+.box13{
+    height: 50px;
+    width: 50px;
+    background-color:#fc5c65;
+    border-radius: 50%;
+}
+.box14{
+    height: 30px;
+    width: 30px;
+    background-color: #3867d6;
+    border-radius: 50%;
+}
+.box15{
+    height: 50px;
+    width: 50px;
+    background-color: #fed330;
+    border-radius: 50%;
+}
+.box16{
+    height: 30px;
+    width: 30px;
+    background-color: #eb2f06;
+    border-radius: 50%;
+}
+.box17{
+    height: 20px;
+    width: 20px;
+    background-color:#0c2461;
+    border-radius: 50%;
+}
+.box18{
+    height: 50px;
+    width: 50px;
+    background-color: #78e08f;
+    border-radius: 50%;
+}
+.box19{
+    height: 30px;
+    width: 30px;
+    background-color: #eccc68;
+    border-radius: 50%;
+}
+.box20{
+    height: 60px;
+    width: 60px;
+    background-color: #2f3542;
+    border-radius: 50%;
+}
